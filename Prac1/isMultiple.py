@@ -3,8 +3,3 @@ def is_multiple(n,m):
         return True
     else:
         return False
-
-
-
-
-

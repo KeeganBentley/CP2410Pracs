@@ -1,4 +1,3 @@
-
 def unique_list(list_of_nums):
     unique_num_list = []
     for num in list_of_nums:
@@ -8,5 +7,3 @@ def unique_list(list_of_nums):
         else:
             return False
     return True
-
-
